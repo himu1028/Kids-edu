@@ -1,0 +1,148 @@
+/* Font Change */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+
+.quicksand-font {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* Nav part */
+.kids-image{
+width: 52.61px;
+height: 62px;
+}
+.img-part{
+    display: flex;
+    gap: 5px;
+
+}
+
+.li-item{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 
+    35px;
+}
+.main-li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 210px;
+}
+.btn-1{
+    text-align: center;
+    border: 2px solid rgb(254, 163, 1);
+    border-radius: 12px;
+background: rgb(254, 163, 1);
+width: 197px;
+height: 50px;
+margin-left: 270px;
+color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0%;
+
+
+}
+.btn-bap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-nav{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.li1{color: rgb(254, 163, 1);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 700;
+}
+.li2{
+    color:  rgb(1, 172, 253);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 700;
+}
+.li3{
+    color: rgb(5, 212, 223);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 700;
+}
+.li4{
+    color: rgb(93, 88, 239);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+/* BANNER PART */
+.Main-banner{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 50px;
+    
+    border-bottom: 5px dashed rgb(247, 247, 247);
+    background-image: url(bg.png);
+    background-position: center;
+    margin-left: 50px;
+}
+.para{
+    color: rgb(17, 17, 17);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+width: 640px;
+height: 50px;
+}
+.img2{
+    width: 450.81px;
+height: 620px;
+margin-top: 80px;
+margin-right: 0px;
+margin-left: 128px;
+}
+.btn2{
+    color: white;
+    font-size: 20px;
+font-weight: 700;
+    width: 197px;
+height: 50px;
+border: 2px solid rgb(17, 17, 17);
+border-radius: 12px;
+background: rgb(17, 17, 17);
+}
+.heading{
+    font-family: Quicksand;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 61px;
+    letter-spacing: 0%;
+    /* White */
+
+}
+.Empowering{
+    color: rgb(254, 163, 1);
+}
+.towardsvision{
+    color: rgb(1, 172, 253);
+   
+}
+
+/* STANDARD PART */
