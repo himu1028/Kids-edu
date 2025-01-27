@@ -146,3 +146,211 @@ background: rgb(17, 17, 17);
 }
 
 /* STANDARD PART */
+.h2-stand{
+    margin-top: 70px;
+}
+
+.h2{
+    text-align: center;
+    font-weight: 700;
+}
+.first-cart{
+    text-align: center;
+    width: 385.8px;
+    padding-top: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+height: 350.78px;
+box-sizing: border-box;
+border: 0.94px solid rgb(222, 245, 255);
+border-radius: 18.86px;
+
+box-shadow: inset 0px 0px 28.3px 0.94px rgba(0, 0, 0, 0.05);
+background: linear-gradient(180.00deg, rgb(222, 245, 255),rgba(255, 255, 255, 0) 40%),rgb(255, 255, 255);
+}
+.a-1{
+    text-decoration: none;
+   color: rgb(100, 200, 255)
+}
+
+
+
+
+
+.nd-cart{
+    text-align: center;
+    width: 385.8px;
+    padding-top: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+height: 350.78px;
+box-sizing: border-box;
+border: 0.94px solid rgb(255, 244, 220);
+border-radius: 18.86px;
+
+box-shadow: inset 0px 0px 28.3px 0.94px rgba(0, 0, 0, 0.05);
+background: linear-gradient(180.00deg, rgb(255, 244, 220),rgba(255, 255, 255, 0) 40%),rgb(255, 255, 255);
+}
+.a-2{
+    text-decoration: none;
+   color: rgb(240, 170, 0);
+}
+
+.rd-cart{
+    text-align: center;
+    width: 385.8px;
+    padding-top: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+height: 350.78px;
+box-sizing: border-box;
+border: 0.94px solid rgb(242, 232, 255);
+border-radius: 18.86px;
+
+box-shadow: inset 0px 0px 28.3px 0.94px rgba(0, 0, 0, 0.05);
+background: linear-gradient(180.00deg, rgb(238, 225, 255),rgba(255, 255, 255, 0) 40%),rgb(255, 255, 255);
+}
+.a-3{
+    text-decoration: none;
+   color:rgb(135, 0, 255);
+}
+.whole-cart{
+    
+    display: flex;
+    gap: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    /* margin-bottom: -100px; */
+    
+}
+.Standard{
+    background-image: url(bg.png);
+    background-position: 100%;
+
+    height: 500px;
+    border-bottom: 5px dashed rgb(247, 247, 247);
+    
+}
+
+/* Stories part */
+.story-1{
+    width: 540.27px;
+height: 595.52px;
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+margin-left: 50px;
+}
+.story-h2{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 46px;
+font-weight: 700;
+}
+.story-1-img{
+    
+    margin-bottom: -40px;
+    border-radius: 16px 16px 0px 0px;
+
+background: url(),rgb(217, 217, 217);
+}
+.magic-1{
+    position: absolute;
+z-index: 1;
+    color: white;
+    text-align: center;
+    border-radius: 47.93px;
+background: rgb(60, 216, 232);
+width: 154.51px;
+height: 32.93px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+margin-left: 30px;
+}
+.wow{
+    margin-top: 100px;
+    font-size: 24px;
+}
+
+.story-2-img{
+    border-radius: 16px 16px 0px 0px;
+
+background: url(),rgb(217, 217, 217);
+
+    
+}
+.magic-2{
+    position: absolute;
+z-index: 1;
+    color: white;
+    text-align: center;
+    border-radius: 47.93px;
+background: rgb(149, 178, 38);
+width: 154.51px;
+height: 32.93px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+margin-left: 20px;
+margin-top: -28px;
+}
+.wow-2{
+    font-size: 15.34px;
+    padding-left: 30px;
+padding-top: 20px;
+}
+.wow, .ah{
+    padding-left: 25px;
+}
+.ah{
+    padding-right: 25px;
+}
+
+/* flex use */
+.flex-1, .flex-2{
+    display: flex;
+    column-gap: 30px;
+    row-gap: 30px;
+    /* flex-direction: column; */
+}
+
+.flex-2{
+    margin-top: 30px;
+}
+
+.story-part{
+    display: flex;
+gap: 30px;
+    margin-top: 60px;
+    margin-bottom: 160px;
+    margin-right: 80px;
+}
+.whole-part-story{
+    background: url(bg.png),linear-gradient(0.00deg, rgba(254, 163, 1, 0.3),rgba(255, 255, 255, 0.3) 100%);
+    position: absolute;
+}
+.story-2{
+    border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+
+.link-1{font-size: 20px;
+    font-weight: 700;
+    padding-top: 20px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    border-radius: 12px;
+background: rgb(17, 17, 17);
+width: 160px;
+height: 50px;
+margin-left: 620px;
+margin-top: -100px;
+margin-bottom: 60px;
+}
+
+/* Footer part */
